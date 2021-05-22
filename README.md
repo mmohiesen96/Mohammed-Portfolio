@@ -1,4 +1,53 @@
 # [My Portfolio](https://mohammed-mohiesen-portfolio.netlify.app/)
+Number and name of feature: #1
+
+Estimate of time needed to complete: 1 hour 
+
+Start time: 1:00
+
+Finish time: 1:30
+
+Actual time needed to complete: 1 hour
+
+Number and name of feature: #2
+
+Estimate of time needed to complete: 1 hour
+
+Start time: 2:00
+
+Finish time: 3:30
+
+Actual time needed to complete: 1:30 hour
+
+Number and name of feature: #3
+
+Estimate of time needed to complete: 30 minutes 
+
+Start time: 3:30
+
+Finish time: 4:49
+
+Actual time needed to complete: 1:49 hour
+
+Number and name of feature: #4
+
+Estimate of time needed to complete: 40 minutes
+
+Start time: 6:00
+
+Finish time: 6:23
+
+Actual time needed to complete: 23 minutes
+
+Number and name of feature: #5 
+
+Estimate of time needed to complete: 1 hour
+
+Start time: 6:30
+
+Finish time: 7:18
+
+Actual time needed to complete: 48 minutes
 
 ## [Argon Design System React](https://demos.creative-tim.com/argon-design-system-react?ref=adsr-github-readme) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/home?status=Argon%20Design%20System%20is%20a%20Free%20Bootstrap%204,%20React%20and%20Reactstrap%20Dashboard%20made%20using%20create-react-app%20%E2%9D%A4%EF%B8%8F%0Ahttps%3A//demos.creative-tim.com/argon-design-system-react%20%23react%20%23reactstrap%20%23createreactapp%20%23argon%20%23argondesign%20%23reactkit%20%23argonreact%20%23reactdesign%20%23bootstrap%20%23design%20%23uikit%20%23freebie%20%20via%20%40CreativeTim)
 
